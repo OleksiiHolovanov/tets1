@@ -17,7 +17,7 @@ PAGES (each exists in EN and AR)
   /responsible-gaming/ + /ar/...            — Responsible Gaming
   /terms/      and /ar/terms/               — Terms & Conditions
   /privacy/    and /ar/privacy/             — Privacy Policy
-  /play-truewin/                            — loader, redirects to time4bets.com
+  /play-truewin/                            — loader, redirects after 1.5s to https://www.time4bets504.com/
                                               after 1.5s (noindex, shared)
 
 SHARED FILES

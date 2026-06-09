@@ -43,3 +43,6 @@
 .feature-media img[src$="hero-jackpot.webp"]{aspect-ratio:900/775}
 @media (max-width:900px){.page-hero{padding-top:42px;padding-bottom:44px}.feature-row{gap:28px}.feature-media{width:100%;max-width:min(100%,420px)}}
 /* End sitewide Lighthouse and accessibility fixes v5 */
+
+/* redirect-logo-fix-6 */
+.brand-logo{width:74px!important;height:auto!important;aspect-ratio:324/132!important;object-fit:contain!important;background:transparent!important}.footer-logo{width:180px!important;height:auto!important;max-width:100%!important;aspect-ratio:324/132!important;object-fit:contain!important;background:transparent!important}.site-header .brand{display:inline-flex;align-items:center;line-height:0}.footer-brand .footer-logo{margin-bottom:14px}
