@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.truewin.ae/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/bonuses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/bonuses/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/bonuses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/bonuses/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/bonuses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/bonuses/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/bonuses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/bonuses/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/mobile-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/mobile-app/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/mobile-app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/mobile-app/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/mobile-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/mobile-app/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/mobile-app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/mobile-app/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/about/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/about/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/about/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/about/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/contact/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/contact/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/contact/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/contact/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/responsible-gaming/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/responsible-gaming/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/responsible-gaming/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/responsible-gaming/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/responsible-gaming/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/responsible-gaming/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/responsible-gaming/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/responsible-gaming/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/terms/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/terms/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/privacy/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.truewin.ae/ar/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.truewin.ae/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.truewin.ae/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.truewin.ae/privacy/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>
