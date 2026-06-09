@@ -2,3 +2,29 @@
 .hero-img,.betting-art img,.bonus-art img,.app-art img,.feature-media img{height:auto}.hero-img{aspect-ratio:900/775}.betting-art img{aspect-ratio:900/675}.bonus-art img{aspect-ratio:1/1}.app-art img{aspect-ratio:320/580}.casino-feature img{height:100%;object-fit:cover}
 /* PageSpeed CLS fix v3 */
 .site-header{min-height:71px}.header-inner{min-height:70px}.brand,.brand-logo{display:block}.brand-logo{width:74px;height:auto;aspect-ratio:324/132}.hero-art{width:100%;aspect-ratio:900/775;overflow:hidden}.hero-img{display:block;width:100%;height:auto;aspect-ratio:900/775;object-fit:contain}.betting-art img{display:block;width:100%;height:auto;aspect-ratio:900/675;object-fit:contain}.bonus-art img{display:block;width:100%;max-width:420px;height:auto;aspect-ratio:1/1;object-fit:contain;margin-left:auto;margin-right:auto}.app-art img{display:block;width:100%;max-width:320px;height:auto;aspect-ratio:320/580;object-fit:contain;margin-left:auto;margin-right:auto}.casino-feature{min-height:380px}.casino-feature img{width:100%;height:100%;object-fit:cover}@media (min-width:901px){.hero{min-height:calc(100svh - 70px);padding-top:70px;padding-bottom:70px}.hero-inner{min-height:620px}.hero-art{max-width:560px;justify-self:end}}@media (max-width:900px){.hero{padding-top:28px;padding-bottom:56px}.hero-inner{gap:28px}.hero-art{max-width:420px;margin-left:auto;margin-right:auto}}@media (max-width:480px){.hero-art{max-width:min(100%,360px)}}
+
+/* PageSpeed Speed Index fix v4 */
+@media (max-width:900px){
+  html{scroll-behavior:auto}
+  .site-header{position:static;background:var(--bg);backdrop-filter:none}
+  .hero{min-height:auto;padding-top:34px;padding-bottom:54px;background:linear-gradient(180deg,var(--bg-2),var(--bg))}
+  .hero-glow{display:none}
+  .hero-inner{grid-template-columns:1fr;gap:22px;align-items:start;min-height:auto}
+  .hero-copy{order:1}
+  .hero-art{order:2;width:100%;max-width:min(100%,340px);margin:20px auto 0;aspect-ratio:900/775;justify-self:center;overflow:hidden}
+  .hero-img{display:block;width:100%;height:auto;aspect-ratio:900/775;object-fit:contain;border-radius:16px;filter:none}
+  .hero-sub{font-size:1rem;margin-top:14px;max-width:100%}
+  .hero-cta{margin-top:22px}
+  .hero-stats{display:none}
+  .btn-primary,.btn-gold{box-shadow:none}
+  .section{padding:58px 0}
+}
+@media (max-width:480px){
+  h1{font-size:2.25rem}
+  .hero-art{max-width:min(100%,318px)}
+}
+@media (min-width:901px){
+  .hero-art{order:initial}
+  .hero-copy{order:initial}
+}
+/* End PageSpeed Speed Index fix v4 */
