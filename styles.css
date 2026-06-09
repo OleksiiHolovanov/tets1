@@ -46,3 +46,37 @@
 
 /* redirect-logo-fix-6 */
 .brand-logo{width:74px!important;height:auto!important;aspect-ratio:324/132!important;object-fit:contain!important;background:transparent!important}.footer-logo{width:180px!important;height:auto!important;max-width:100%!important;aspect-ratio:324/132!important;object-fit:contain!important;background:transparent!important}.site-header .brand{display:inline-flex;align-items:center;line-height:0}.footer-brand .footer-logo{margin-bottom:14px}
+
+/* Burger menu fix */
+@media (max-width:700px){
+  .site-header{overflow:visible}
+  .nav-toggle{position:relative;z-index:260;display:flex;align-items:center;justify-content:center;width:40px;height:40px}
+  .nav-toggle span{display:block;transform-origin:center}
+  .nav-toggle.open span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+  .nav-toggle.open span:nth-child(2){opacity:0}
+  .nav-toggle.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+  .main-nav.open,
+  .site-header.menu-open .main-nav{
+    display:flex!important;
+    flex-direction:column;
+    position:absolute;
+    top:70px;
+    left:0;
+    right:0;
+    z-index:250;
+    margin:0;
+    padding:18px 22px 20px;
+    gap:4px;
+    background:var(--bg-2);
+    border-bottom:1px solid var(--line);
+    box-shadow:0 22px 45px rgba(0,0,0,.35);
+  }
+  .main-nav.open a,
+  .site-header.menu-open .main-nav a{
+    display:block;
+    width:100%;
+    padding:12px 0;
+    font-size:1.05rem;
+  }
+  body.menu-open{overflow-x:hidden}
+}
