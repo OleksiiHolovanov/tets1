@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /play-truewin/
 
-Sitemap: https://www.truewin.ae/sitemap.xml
+Sitemap: https://true-winuae.com/sitemap.xml

@@ -34,7 +34,7 @@ hreflang / SEO
     (TrueWin / True Win / ترو وين / الإمارات / كازينو / عروض / تطبيق ...).
   - Canonical, Open Graph (with og:locale + og:locale:alternate), Twitter.
   - Structured data: Organization + WebSite (home), FAQPage (contact, per lang).
-  - If the live domain differs from https://www.truewin.ae/, update the
+  - If the live domain differs from https://true-winuae.com/, update the
     canonical/og:url/hreflang URLs and sitemap.xml accordingly.
 
 CONTENT ACCURACY
