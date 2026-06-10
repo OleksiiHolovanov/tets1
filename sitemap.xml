@@ -34,6 +34,22 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://true-winuae.com/login/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://true-winuae.com/login/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://true-winuae.com/ar/login/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://true-winuae.com/login/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://true-winuae.com/ar/login/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://true-winuae.com/login/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://true-winuae.com/ar/login/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://true-winuae.com/login/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://true-winuae.com/mobile-app/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://true-winuae.com/mobile-app/" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://true-winuae.com/ar/mobile-app/" />
@@ -48,22 +64,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://true-winuae.com/mobile-app/" />
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://true-winuae.com/login/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://true-winuae.com/login/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://true-winuae.com/ar/login/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://true-winuae.com/login/" />
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://true-winuae.com/ar/login/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://true-winuae.com/login/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://true-winuae.com/ar/login/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://true-winuae.com/login/" />
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://true-winuae.com/about/</loc>

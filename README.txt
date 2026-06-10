@@ -51,3 +51,5 @@ DEPLOYMENT
   from a web server so root maps to this folder. For local preview run a
   server (e.g. `python3 -m http.server` from this folder); opening files via
   file:// will break root-relative links.
+
+Added login pages: /login/ and /ar/login/ with brand-focused SEO metadata and existing site components.
